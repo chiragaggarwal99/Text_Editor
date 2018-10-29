@@ -26,3 +26,4 @@ PyQt5 form layout
 PyQt5 box layout
 =======
 This text editor even works with all the shortcuts you have been using in your earlier. Text editor is also been now uploaded in c# 
+You can even use the normal shortcuts in this editor that you use in other editors.
